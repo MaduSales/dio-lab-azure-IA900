@@ -6,6 +6,7 @@ Em função de aprender mais sobre Machine Learning no Bootcamp da DIO sobre Mic
 [Documentação do Azure Machine Learning](https://learn.microsoft.com/pt-br/azure/machine-learning/?view=azureml-api-2)
 <br>
 <hr>
+
 ## Passo 1: Criar um recurso
 A documentação oficial nos pede para configurar seguindo alguns requisitos. Para o nome, escolhi Lab-IA900.
 <br>
