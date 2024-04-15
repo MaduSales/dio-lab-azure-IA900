@@ -1,6 +1,6 @@
 # dio-lab-azure-IA900
 
-Em função de aprender mais sobre Machine Learning no Bootcamp da DIO sobre Microsoft Azure, criei uma conta grátis no Azure e, seguindo as documentações oficiais, desenvolvi um modelo de previsão sobre aluguel de biciletas. Abaixo estão os links que utilizei:
+Em função de aprender mais sobre Machine Learning no Bootcamp da DIO sobre Microsoft Azure, criei uma conta grátis no Azure e, seguindo as documentações oficiais, desenvolvi um modelo de previsão sobre aluguel de bicicletas. Abaixo estão os links que utilizei:
 
 [Explore Automated Machine Learning in Azure Machine Learning](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html)
 <br>
@@ -12,12 +12,12 @@ Em função de aprender mais sobre Machine Learning no Bootcamp da DIO sobre Mic
 A documentação oficial nos pede para configurar seguindo alguns requisitos. Para o nome do workspace, escolhi Lab-IA900 por ser intuitivo.
 <br>
 <br>
-## Passo 2: Criar um workspace
+## Passo 2: Criar um Workspace
 Isso pode levar alguns minutos, mas brevemente o workspace é criado e, clicando em "Launch studio", somos direcionados para outra página em que é necessário reconfigurar alguns requisitos do recurso inicial
 <br>
 <br>
 ## Passo 3: Entrada de dados de treinamento
-Com o workspace criado, precisamos de dados de entrada para que a máquina entenda e siga os algoritmos. Nesse caso, a documentação afirma que os dados utilizados serão do Capital Bikeshare, um sistema de aluguel de bicicletas em Washington, D.C. que autorizou a utilização dos dados de suas matrizes. Os dados servirão para que a máquina seja treinada e preveja o número de bicicletas que serão alugadas em um determinado dia, baseados em características sensoriais e meteorológicas.
+Com o workspace criado, precisamos de dados de entrada para que a máquina entenda e siga os algoritmos. Nesse caso, a documentação afirma que os dados utilizados serão do Capital Bikeshare, um sistema de aluguel de bicicletas em Washington D.C. que autorizou a utilização dos dados de suas matrizes. Os dados servirão para que a máquina seja treinada e preveja o número de bicicletas que serão alugadas em um determinado dia, baseados em características sensoriais e meteorológicas.
 <br>
 <br>
 ## Passo 4: Criar um Automated ML
